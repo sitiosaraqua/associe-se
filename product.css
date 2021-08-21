@@ -1,14 +1,19 @@
 div#header {
-  background: url(air_photo.jpg);
+  background: url(air_photo.png);
   background-size: cover;
   background-position: center;
 }
 
-div#header h1 {
-  background-color: rgba(255, 255, 255, 0.3);
-  display: table;
-  margin: 0 auto;
-  padding: 0.1rem 1rem;
+#logo {
+  background: url(CSAFloripaSaraqua.png);
+  max-width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#logo h1 {
+  text-indent: -99999px;
 }
 
 .just-mobile {
