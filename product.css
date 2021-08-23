@@ -50,6 +50,10 @@ img.stamp {
   margin-bottom: 1rem;
 }
 
+.bg-dark {
+  background: #3A653D !important;
+}
+
 @media (max-width: 768px) {
   .not-mobile {
       display: none;
